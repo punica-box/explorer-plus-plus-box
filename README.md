@@ -12,7 +12,7 @@ A box came from TC SHENZHEN Hackathon 2018. This box is contributed by [includel
 
 ## 快速上手
 
-- 运行浏览器页面
+- 运行浏览器界面
 
 ``` bash
 cd src
@@ -37,9 +37,12 @@ npm run unit
 npm test
 ```
 
-- 运行同步节点
+- 运行同步程序
 
 ```bash
+cd src
+cd sync_node
+
 virtualenv --no-site-packages venv
 
 .\venv\Scripts\activate
