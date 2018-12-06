@@ -5,8 +5,7 @@ mydb = myclient["ont"]
 mycol = mydb["oep_token"]
 
 mylist = [
-    {"contractAddress": "9d70f2d7fd2a2318c611ae8feb4f7bf067ba680e", "name": "HACK111" , "symbol":"HA"},
-    {"contractAddress": "9482aee6844b6607562da739effb7a9819b3938c", "name": "HACKATHON2018SZ" , "symbol":"HACK"},
+    {"contractAddress": "1ddbb682743e9d9e2b71ff419e97a9358c5c4ee9", "name": "DXToken" , "symbol":"DX"}
 ]
 
 x = mycol.insert_many(mylist)
