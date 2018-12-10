@@ -14,7 +14,7 @@ A box came from TC SHENZHEN Hackathon 2018. This box is contributed by [includel
 
 <div align=center><img src="img/ongOnt.png"/></div>
 
-## 快速上手
+## 快速开始
 
 - 运行浏览器界面
 
